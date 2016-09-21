@@ -53,6 +53,11 @@ a:active {text-decoration: none; color: #FF5A09;}
 a:hover {text-decoration: none; color: #FF5A09; background-color: rgb(0, 68, 83)}
 
 #choice {
-  margin-top: 350px;
+  margin-top: 50px;
   font-size:80px;
+}
+
+#final-screen {
+  margin-top: 50px;
+  font-size:50px;
 }
